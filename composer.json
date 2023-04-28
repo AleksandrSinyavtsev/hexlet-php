@@ -1,0 +1,16 @@
+{
+    "name": "alex/phptest",
+    "description": "testing package",
+    "autoload": {
+        "psr-4": {
+            "Alex\\Phptest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Sinyavtsev",
+            "email": "sinyavtsev.alek@yandex.ru"
+        }
+    ],
+    "require": {}
+}
