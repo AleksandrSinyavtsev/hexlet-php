@@ -1,0 +1,8 @@
+{
+	"autoload": {
+		"files": [
+			"src/Runner.php"
+		]
+	}
+}
+	

@@ -1,10 +1,12 @@
 {
-    "name": "alex/phptest",
-    "description": "testing package",
+    "name": "alex/hexlet-php",
     "autoload": {
         "psr-4": {
-            "Alex\\Phptest\\": "src/"
-        }
+            "Alex\\HexletPhp\\": "src/"
+        },
+	"files": [
+		"src/Runner.php"
+	]
     },
     "authors": [
         {
